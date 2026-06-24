@@ -1,9 +1,3 @@
-Perfect — now I understand. You don’t want a basic README, you want a **detailed, professional, viva-ready GitHub README** that explains everything deeply.
-
-Below is your **complete advanced README.md** 👇 (you can copy directly into GitHub)
-
----
-
 # 🧠 Multi-Task News Intelligence System
 
 ### 🔍 Classification | 🏷️ Named Entity Recognition | ✂️ Summarization
